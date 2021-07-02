@@ -1,2 +1,1 @@
-# StreetFoodKesko
-You can choose your favorite food 
+# Kesko-Street-Food
